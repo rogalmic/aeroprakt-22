@@ -1,2 +1,23 @@
 syntax: glob
 .DS_Store
+objects/fuselage\.blend1
+objects/fuselage\.blend10
+objects/fuselage\.blend2
+objects/fuselage\.blend3
+objects/fuselage\.blend4
+objects/fuselage\.blend5
+objects/fuselage\.blend6
+objects/fuselage\.blend7
+objects/fuselage\.blend8
+objects/fuselage\.blend9
+objects/001\.jpg
+objects/002\.jpg
+objects/003\.jpg
+objects/004\.jpg
+objects/005\.jpg
+objects/006\.jpg
+objects/007\.jpg
+objects/008\.jpg
+objects/009\.jpg
+objects/010\.jpg
+данные\.txt
